@@ -4,7 +4,7 @@
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/abc/">
+  <a href="https://www.linkedin.com/abc/](https://www.linkedin.com/in/sy-le-6a8989198">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
 
